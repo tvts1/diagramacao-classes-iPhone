@@ -20,5 +20,6 @@ NavegadorInternet: exibirPagina(), adicionarNovaAba(), atualizarPagina()
 <hr>
 
 📊 Diagrama UML
+<hr>
 O diagrama de classes representa como o iPhone integra funcionalidades de música, telefone e navegação, utilizando os princípios de POO e interfaces para organizar as responsabilidades.
 ![Diagrama UML](./src/imagens/iPhone-modelagem.png)
