@@ -1,7 +1,7 @@
-📱 Diagramação de Classes do iPhone
+##📱 Diagramação de Classes do iPhone
 📋 Descrição
 Este projeto foi desenvolvido como parte do Bootcamp Santander da DIO, com o objetivo de praticar programação orientada a objetos (POO) e modelagem UML.
-
+<hr>
 O desafio consiste em modelar as principais funcionalidades de um iPhone, que desempenha três papéis:
 
 🎵 Reprodutor Musical
@@ -9,7 +9,7 @@ O desafio consiste em modelar as principais funcionalidades de um iPhone, que de
 📞 Aparelho Telefônico
 
 🌐 Navegador de Internet
-
+<hr>
 A classe principal iPhone implementa três interfaces, cada uma representando uma dessas funcionalidades:
 
 ReprodutorMusical: tocar(), pausar(), selecionarMusica()
@@ -17,11 +17,11 @@ ReprodutorMusical: tocar(), pausar(), selecionarMusica()
 AparelhoTelefonico: ligar(), atender(), iniciarCorreioVoz()
 
 NavegadorInternet: exibirPagina(), adicionarNovaAba(), atualizarPagina()
-
+<hr>
 O projeto conta com:
 
 Código-fonte em Java
-
+<hr>
 Diagrama UML do sistema
 
 📊 Diagrama UML
