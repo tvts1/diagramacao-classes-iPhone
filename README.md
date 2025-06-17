@@ -9,7 +9,7 @@ O desafio consiste em modelar as principais funcionalidades de um iPhone, que de
 📞 Aparelho Telefônico
 
 🌐 Navegador de Internet
-
+<hr>
 A classe principal iPhone implementa três interfaces, cada uma representando uma dessas funcionalidades:
 
 ReprodutorMusical: tocar(), pausar(), selecionarMusica()
